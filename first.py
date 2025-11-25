@@ -20,7 +20,7 @@ TILE_SIZE = 40
 
 # Player
 player_x, player_y = 0, 0
-player_speed = 5
+player_speed = 20
 
 # Camera offset
 camera_x, camera_y = 0, 0
